@@ -15,6 +15,6 @@
     <tspan x="24" y="182">        ___╲╱╱╱╱╱╱╱╱╱╱╱___________╲╱╱╱________╲╱╱╱________╲╱╱╱__╲╱╱╱______________╲╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱__╲╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱__╲╱╱╱________╲╱╱╱__</tspan>
   </text>
 </defs>
-<use href="#banner" x="1.5" fill="#ffffff" opacity="1.15"/>
+<use href="#banner" x="1.5" fill="#00ffff" opacity="0.95"/>
 <use href="#banner" fill="#0000ff"/>
 </svg>
